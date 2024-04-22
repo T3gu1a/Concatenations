@@ -74,6 +74,6 @@ Smr := proc(n)
 	
 end module:
 
-savelib('Smarandache',"C:/Users/bertr/maple/toolbox/personal/lib/Smarandache.mla"):
+savelib('Smarandache',"YOUR-PATH/Smarandache.mla"):
 
 
